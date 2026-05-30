@@ -1,1 +1,1 @@
-# regression_cost_explorer
+# linear_regression_cost_explorer
